@@ -76,3 +76,9 @@ AND bakery_security_logs.month = 7
 AND bakery_security_logs.day = 28
 AND bakery_security_logs.hour = 10
 ORDER BY bakery_security_logs.minute;
+
+-- Find destination city of flight 36
+SELECT city
+FROM airports
+JOIN flights ON flights.destination_airport_id = airports.id
+WHERE flights.id = 36;
