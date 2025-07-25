@@ -1,0 +1,24 @@
+HTML Tags Used:
+<html>
+<head>
+<body>
+<h1>
+<p>
+<img>
+<section>
+<div>
+<main>
+<footer>
+
+CSS Properties Used:
+- width 
+- padding 
+- font-size 
+- color
+- background-color
+
+JavaScript used:
+Used very lightly and only to display a different message depending on whether the user clicks "Yes" or "No" in the next era page.
+
+Bootstrap used:
+Used Bootstrap classes to style the yes/no buttons.
