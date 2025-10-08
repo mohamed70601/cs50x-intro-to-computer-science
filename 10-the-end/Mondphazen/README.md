@@ -1,16 +1,59 @@
-# React + Vite
+# Mondphazen – Luxury Watch Store
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Mondphazen is a luxury watch store web application, inspired by my passion for professionally and carefully crafted timepieces.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Live Demo
 
-## React Compiler
+[View the live site on Netlify](https://mondphazen.netlify.app/)
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🎨 Design
 
-## Expanding the ESLint configuration
+Started with a **Figma design**: [View Figma](https://www.figma.com/design/i4nNazaNwsZ5WNZb7NO1Bl/CS50-final-project)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 📖 Overview
+
+For **version 1.0**:
+
+- Curated a **custom API** with a selection of luxury watches.
+- Built with **Vite** and **React Router** for smooth navigation.
+- Includes **4 main pages**:
+  - Home
+  - Store
+  - Cart _(functionality will be added in later version)_
+  - About
+  - Product Details page will be added later
+- **404 page** included for unmatched routes.
+- Cart functionality will be fully implemented once Context API is mastered.
+
+---
+
+## 🛠 Tech Stack
+
+- **Frontend:** React, Vite
+- **Routing:** React Router
+- **Data:** Custom API
+
+---
+
+## 💡 Motivation
+
+I built Mondphazen to combine my love for luxury watches with web development. This project allowed me to practice:
+
+- Designing in Figma
+- Structuring a React app with multiple pages
+- Fetching and displaying data from a custom API
+- Deploying a live site on Netlify
+
+---
+
+## 📌 Next Steps
+
+- Implement full **Cart functionality** with Context API
+- Add **Product Details** page
+- Expand watch selection in the API
+
+---
