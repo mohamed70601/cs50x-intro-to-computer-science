@@ -36,6 +36,7 @@ For **version 1.0**:
 - **Frontend:** React, Vite
 - **Routing:** React Router
 - **Data:** Custom API
+- **Styling:** Tailwind CSS
 
 ---
 
